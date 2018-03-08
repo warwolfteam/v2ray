@@ -41,7 +41,7 @@ V2Ray 是一个于 Shadowsocks 之后非常好用的代理软件，但是由于 
 使用 root 用户输入下面命令安装或卸载
 
 
-bash <(curl -s -L https://233blog.com/v2ray.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/Blackcatonzxx/v2ray/master/install.sh)
 
 
 如果提示 curl: command not found ，那是因为你的小鸡没装 Curl
